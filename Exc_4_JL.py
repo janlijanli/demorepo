@@ -11,3 +11,5 @@ def calc_stat(p):
 path = r'C:\Users\Jan Liechti\Google Drive\UNI\FS19\Geographie\Gedatenanalyse_u_Modellierung\02 Intro Python\precip_data.txt'  # path to Textfile
 results = calc_stat(path)
 print('maximum precipitation: {} \nminimum precipitation: {}\nmean precipitation: {}'.format(results[0], results[1], round(results[2], 1)))
+
+# Erweiterung Test
