@@ -13,3 +13,5 @@ results = calc_stat(path)
 print('maximum precipitation: {} \nminimum precipitation: {}\nmean precipitation: {}'.format(results[0], results[1], round(results[2], 1)))
 
 # Erweiterung Test
+
+# Test 2 für Kraken
